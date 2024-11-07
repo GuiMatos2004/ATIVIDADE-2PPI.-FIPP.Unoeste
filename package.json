@@ -1,0 +1,30 @@
+{
+  "name": "atividade-2ppi.-fipp.unoeste",
+  "version": "1.0.0",
+  "description": "Atividade 2 PPI",
+  "main": "index.js",
+  "type": "module",
+  "scripts": {
+    "start": "node index.js",
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/GuiMatos2004/ATIVIDADE-2PPI.-FIPP.Unoeste.git"
+  },
+  "keywords": [
+    "HTTP",
+    "POST",
+    "JavaScript",
+    "Node"
+  ],
+  "author": "Guilherme Matos",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/GuiMatos2004/ATIVIDADE-2PPI.-FIPP.Unoeste/issues"
+  },
+  "homepage": "https://github.com/GuiMatos2004/ATIVIDADE-2PPI.-FIPP.Unoeste#readme",
+  "dependencies": {
+    "express": "^4.21.1"
+  }
+}
